@@ -10,13 +10,10 @@ Web Crawler is a very flexible way to get data. We can basically crawl all the w
 
 
 ## Who contribute it?
-Group Members: Qinming Hu(qh2197)
-               
-               Shuning Liu(sl4439)
-               
-               Xinyi Zhou(xz2771)
-               
-               Yijian Pang(yp2496)
+Group Members: Qinming Hu(qh2197);
+               Shuning Liu(sl4439);
+               Xinyi Zhou(xz2771);
+               Yijian Pang(yp2496).
                
 
 ## Before we run, what should we have?
