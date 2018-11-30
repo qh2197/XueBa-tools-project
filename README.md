@@ -1,4 +1,10 @@
 # XueBa-tools-project
+## What is it?
+
+**Xueba web crawler** is a tool to find all the feature films on **IMDB.com**. It aims to catrgorize all feature films into different film genres. We are using practical, **real world** data analysis in Python. Additionally, it has
+the broader goal of becoming **the most powerful and flexible open source data
+analysis / manipulation tool available in any language**. It is already well on
+its way towards this goal.
 Movies take an important role of our daily life and there are more and more good movies nowadays. However, it is too hard to find the information you want efficiently from such a large amount of data. 
 
 Web Crawler is a very flexible way to get data. We can basically crawl all the webpages we can see on the web and crawl the data we need in the format we want. After we get all these data, we can use these information to do further analysis and research such as customers’ behaviors.
