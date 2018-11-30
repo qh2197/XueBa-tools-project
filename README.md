@@ -19,12 +19,21 @@ Group Members: Qinming Hu(qh2197)
 ## Before we run, what should we have?
 **Installation instructions**
 To use this tools, we need import serveral packages:
-1. To use HTTP library,
+1. Use HTTP library,
 ```shell
 $ python
 ```
 ```python
->>> import requests # 导入网页请求库
+>>> import requests 
+```
+2. Fine data from library,
+```python
+>>> from bs4 import BeautifulSoup
+```
+3. Display data graphically,
+```python
+>>> !pip install pyecharts
+>>> from pyecharts import Page, Pie, Bar
 ```
 
 
