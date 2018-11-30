@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[2]:
+# 
 
 
 import requests 
@@ -35,3 +35,4 @@ def main():
 if __name__ == '__main__':
     main()
 
+    
