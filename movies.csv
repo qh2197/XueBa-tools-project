@@ -1,0 +1,201 @@
+,Movies Name,Release Year,Restricted Level,Genre,Score,Director,Votes
+0,Fantastic Beasts: The Crimes of Grindelwald,2018,PG-13,"Adventure, Family, Fantasy",7.0,David Yates,65925
+1,The Ballad of Buster Scruggs,2018,R,"Comedy, Drama, Musical",7.4,Ethan Coen,27394
+2,Bohemian Rhapsody,2018,PG-13,"Biography, Drama, Music",8.4,Bryan Singer,128178
+3,Creed II,2018,PG-13,"Drama, Sport",8.0,Steven Caple Jr.,8412
+4,The Lion King,2019,None,"Animation, Adventure, Drama",None,Jon Favreau,None
+5,Ralph Breaks the Internet,2018,PG,"Animation, Adventure, Comedy",7.6,Phil Johnston,9837
+6,Robin Hood,2018,PG-13,"Action, Adventure, Thriller",5.3,Otto Bathurst,5652
+7,Widows,2018,R,"Crime, Drama, Thriller",7.5,Steve McQueen,14259
+8,A Star Is Born,2018,R,"Drama, Music, Romance",8.2,Bradley Cooper,105428
+9,Aquaman,2018,PG-13,"Action, Adventure, Fantasy",None,James Wan,None
+10,The Grinch,2018,PG,"Animation, Comedy, Family",6.4,Yarrow Cheney,7551
+11,Outlaw King,2018,R,"Action, Biography, Drama",7.0,David Mackenzie,26460
+12,Fantastic Beasts and Where to Find Them,2016,PG-13,"Adventure, Family, Fantasy",7.3,David Yates,333549
+13,The Christmas Chronicles,2018,TV-PG,"Adventure, Comedy, Family",7.4,Clay Kaytis,8657
+14,Overlord,2018,R,"Action, Adventure, Horror",7.1,Julius Avery,15761
+15,Crazy Rich Asians,2018,PG-13,"Comedy, Romance",7.2,Jon M. Chu,48170
+16,Venom,2018,PG-13,"Action, Sci-Fi",7.0,Ruben Fleischer,135978
+17,Instant Family,2018,PG-13,"Comedy, Drama",7.6,Sean Anders,2565
+18,Incredibles 2,2018,PG,"Animation, Action, Adventure",7.9,Brad Bird,141493
+19,Peppermint,2018,R,"Action, Drama, Thriller",6.5,Pierre Morel,12672
+20,The Meg,2018,PG-13,"Action, Horror, Sci-Fi",5.8,Jon Turteltaub,75515
+21,Mission: Impossible - Fallout,2018,PG-13,"Action, Adventure, Thriller",7.9,Christopher McQuarrie,171914
+22,The Princess Switch,2018,None,Romance,6.1,Mike Rohl,5608
+23,The Favourite,2018,R,"Biography, Comedy, Drama",8.2,Yorgos Lanthimos,2521
+24,Captain Marvel,2019,None,"Action, Adventure, Sci-Fi",None,Anna Boden,None
+25,Mile 22,2018,R,"Action, Adventure, Crime",6.1,Peter Berg,28643
+26,Green Book,2018,PG-13,"Biography, Comedy, Drama",8.2,Peter Farrelly,3335
+27,Deadpool 2,2018,R,"Action, Adventure, Comedy",7.8,David Leitch,306145
+28,The Girl in the Spider's Web,2018,R,"Action, Crime, Drama",6.1,Fede Alvarez,7356
+29,The Nun,2018,R,"Horror, Mystery, Thriller",5.5,Corin Hardy,59758
+30,First Man,2018,PG-13,"Biography, Drama, History",7.6,Damien Chazelle,53328
+31,Pokémon Detective Pikachu,2019,None,"Animation, Adventure, Family",None,Rob Letterman,None
+32,Avengers: Infinity War,2018,PG-13,"Action, Adventure, Fantasy",8.5,Anthony Russo,529483
+33,Cam,2018,TV-MA,"Horror, Mystery, Thriller",6.0,Daniel Goldhaber,6243
+34,The Lego Movie 2: The Second Part,2019,None,"Animation, Action, Adventure",None,Mike Mitchell,None
+35,The Predator,2018,R,"Action, Adventure, Horror",5.6,Shane Black,48718
+36,The Greatest Showman,2017,PG,"Biography, Drama, Musical",7.7,Michael Gracey,167766
+37,Toy Story 4,2019,None,"Animation, Adventure, Comedy",None,Josh Cooley,None
+38,The Equalizer 2,2018,R,"Action, Crime, Thriller",6.8,Antoine Fuqua,57274
+39,Vice,2018,R,"Biography, Drama, History",None,Adam McKay,None
+40,Mortal Engines,2018,PG-13,"Action, Adventure, Fantasy",None,Christian Rivers,None
+41,BlacKkKlansman,2018,R,"Biography, Comedy, Crime",7.6,Spike Lee,58624
+42,The Happytime Murders,2018,R,"Action, Comedy, Crime",5.2,Brian Henson,9102
+43,Suspiria,2018,R,"Fantasy, Horror, Mystery",7.3,Luca Guadagnino,8677
+44,Halloween,2018,R,"Horror, Thriller",7.1,David Gordon Green,49140
+45,The Nutcracker and the Four Realms,2018,PG,"Adventure, Family, Fantasy",5.6,Lasse Hallström,7643
+46,Mary Poppins Returns,2018,PG,"Animation, Adventure, Family",None,Rob Marshall,None
+47,Once Upon a Time in Hollywood,2019,None,"Comedy, Drama",None,Quentin Tarantino,None
+48,The Lion King,1994,G,"Animation, Adventure, Drama",8.5,Roger Allers,797944
+49,How the Grinch Stole Christmas,2000,PG,"Comedy, Family, Fantasy",6.1,Ron Howard,171192
+50,Dumbo,2019,None,"Family, Fantasy",None,Tim Burton,None
+51,The Clovehitch Killer,2018,None,"Drama, Horror, Mystery",6.5,Duncan Skiles,2118
+52,Searching,2018,PG-13,"Drama, Mystery, Thriller",7.8,Aneesh Chaganty,44850
+53,Alpha,2018,PG-13,"Adventure, Drama, Family",6.8,Albert Hughes,25453
+54,Harry Potter and the Sorcerer's Stone,2001,PG,"Adventure, Family, Fantasy",7.6,Chris Columbus,546062
+55,Thugs of Hindostan,2018,None,"Action, Adventure",3.5,Vijay Krishna Acharya,10480
+56,Spider-Man: Into the Spider-Verse,2018,PG,"Animation, Action, Adventure",None,Bob Persichetti,None
+57,Creed,2015,PG-13,"Drama, Sport",7.6,Ryan Coogler,206367
+58,Love Actually,2003,R,"Comedy, Drama, Romance",7.6,Richard Curtis,368612
+59,Aladdin,2019,None,"Adventure, Family, Fantasy",None,Guy Ritchie,None
+60,Joker,2019,None,"Crime, Drama, Thriller",None,Todd Phillips,None
+61,The Hate U Give,2018,PG-13,"Crime, Drama",6.9,George Tillman Jr.,6839
+62,The Mule,2018,R,"Crime, Drama, Mystery",None,Clint Eastwood,None
+63,Untitled Avengers Movie,2019,None,"Action, Adventure, Fantasy",None,Anthony Russo,None
+64,Boy Erased,2018,R,"Biography, Drama",7.2,Joel Edgerton,2989
+65,Ant-Man and the Wasp,2018,PG-13,"Action, Adventure, Comedy",7.2,Peyton Reed,155249
+66,Ocean's Eight,2018,PG-13,"Action, Comedy, Crime",6.2,Gary Ross,106463
+67,Speed Kills,2018,R,"Crime, Drama, Thriller",3.8,Jodi Scurfield,544
+68,Mamma Mia! Here We Go Again,2018,PG-13,"Comedy, Musical, Romance",6.9,Ol Parker,44319
+69,Solo: A Star Wars Story,2018,PG-13,"Action, Adventure, Fantasy",7.0,Ron Howard,175545
+70,Christopher Robin,2018,PG,"Animation, Adventure, Comedy",7.5,Marc Forster,30451
+71,Black Panther,2018,PG-13,"Action, Adventure, Sci-Fi",7.4,Ryan Coogler,418265
+72,Beautiful Boy,2018,R,"Biography, Drama",7.3,Felix van Groeningen,4494
+73,Wreck-It Ralph,2012,PG,"Animation, Adventure, Comedy",7.7,Rich Moore,322781
+74,Papillon,2017,R,"Crime, Drama, Mystery",7.1,Michael Noer,14805
+75,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,"Adventure, Drama, Fantasy",8.1,David Yates,666761
+76,Mandy,2018,Not Rated,"Action, Horror, Thriller",6.7,Panos Cosmatos,26081
+77,The Possession of Hannah Grace,2018,R,"Horror, Mystery, Thriller",6.2,Diederik Van Rooijen,488
+78,After,2019,None,"Drama, Romance, Thriller",None,Jenny Gage,None
+79,The Spy Who Dumped Me,2018,R,"Action, Adventure, Comedy",6.0,Susanna Fogel,30529
+80,Hunter Killer,2018,R,"Action, Thriller",7.0,Donovan Marsh,7354
+81,Game Night,2018,R,"Action, Comedy, Crime",7.0,John Francis Daley,130264
+82,Jurassic World: Fallen Kingdom,2018,PG-13,"Action, Adventure, Sci-Fi",6.2,J.A. Bayona,176465
+83,Bumblebee,2018,PG-13,"Action, Adventure, Sci-Fi",None,Travis Knight,None
+84,Kin,2018,PG-13,"Action, Sci-Fi",5.6,Jonathan Baker,4685
+85,Hellboy,2019,None,"Action, Adventure, Fantasy",None,Neil Marshall,None
+86,Jonathan,2018,None,"Drama, Sci-Fi",5.8,Bill Oliver,1162
+87,Roma,2018,R,Drama,8.6,Alfonso Cuarón,2276
+88,The Irishman,2019,None,"Biography, Crime, Drama",None,Martin Scorsese,None
+89,The Godfather,1972,R,"Crime, Drama",9.2,Francis Ford Coppola,1384908
+90,Home Alone,1990,PG,"Comedy, Family",7.5,Chris Columbus,384484
+91,National Lampoon's Christmas Vacation,1989,PG-13,Comedy,7.6,Jeremiah S. Chechik,125990
+92,Jumanji: Welcome to the Jungle,2017,PG-13,"Action, Adventure, Comedy",7.0,Jake Kasdan,216968
+93,Mowgli: Legend of the Jungle,2018,PG-13,"Adventure, Drama",8.0,Andy Serkis,78
+94,Pacific Rim: Uprising,2018,PG-13,"Action, Adventure, Sci-Fi",5.6,Steven S. DeKnight,76586
+95,Hereditary,2018,R,"Drama, Horror, Mystery",7.3,Ari Aster,106233
+96,Ready Player One,2018,PG-13,"Action, Adventure, Sci-Fi",7.6,Steven Spielberg,243750
+97,A Private War,2018,R,"Biography, Drama, War",7.1,Matthew Heineman,1084
+98,Justice League,2017,PG-13,"Action, Adventure, Fantasy",6.5,Zack Snyder,295461
+99,Mary Queen of Scots,2018,R,"Biography, Drama, History",6.8,Josie Rourke,183
+100,Fantastic Beasts: The Crimes of Grindelwald,2018,PG-13,"Adventure, Family, Fantasy",7.0,David Yates,65925
+101,The Ballad of Buster Scruggs,2018,R,"Comedy, Drama, Musical",7.4,Ethan Coen,27394
+102,Bohemian Rhapsody,2018,PG-13,"Biography, Drama, Music",8.4,Bryan Singer,128178
+103,Creed II,2018,PG-13,"Drama, Sport",8.0,Steven Caple Jr.,8412
+104,The Lion King,2019,None,"Animation, Adventure, Drama",None,Jon Favreau,None
+105,Ralph Breaks the Internet,2018,PG,"Animation, Adventure, Comedy",7.6,Phil Johnston,9837
+106,Robin Hood,2018,PG-13,"Action, Adventure, Thriller",5.3,Otto Bathurst,5652
+107,Widows,2018,R,"Crime, Drama, Thriller",7.5,Steve McQueen,14259
+108,A Star Is Born,2018,R,"Drama, Music, Romance",8.2,Bradley Cooper,105428
+109,Aquaman,2018,PG-13,"Action, Adventure, Fantasy",None,James Wan,None
+110,The Grinch,2018,PG,"Animation, Comedy, Family",6.4,Yarrow Cheney,7551
+111,Outlaw King,2018,R,"Action, Biography, Drama",7.0,David Mackenzie,26460
+112,Fantastic Beasts and Where to Find Them,2016,PG-13,"Adventure, Family, Fantasy",7.3,David Yates,333549
+113,The Christmas Chronicles,2018,TV-PG,"Adventure, Comedy, Family",7.4,Clay Kaytis,8657
+114,Overlord,2018,R,"Action, Adventure, Horror",7.1,Julius Avery,15761
+115,Crazy Rich Asians,2018,PG-13,"Comedy, Romance",7.2,Jon M. Chu,48170
+116,Venom,2018,PG-13,"Action, Sci-Fi",7.0,Ruben Fleischer,135978
+117,Instant Family,2018,PG-13,"Comedy, Drama",7.6,Sean Anders,2565
+118,Incredibles 2,2018,PG,"Animation, Action, Adventure",7.9,Brad Bird,141493
+119,Peppermint,2018,R,"Action, Drama, Thriller",6.5,Pierre Morel,12672
+120,The Meg,2018,PG-13,"Action, Horror, Sci-Fi",5.8,Jon Turteltaub,75515
+121,Mission: Impossible - Fallout,2018,PG-13,"Action, Adventure, Thriller",7.9,Christopher McQuarrie,171914
+122,The Princess Switch,2018,None,Romance,6.1,Mike Rohl,5608
+123,The Favourite,2018,R,"Biography, Comedy, Drama",8.2,Yorgos Lanthimos,2521
+124,Captain Marvel,2019,None,"Action, Adventure, Sci-Fi",None,Anna Boden,None
+125,Mile 22,2018,R,"Action, Adventure, Crime",6.1,Peter Berg,28643
+126,Green Book,2018,PG-13,"Biography, Comedy, Drama",8.2,Peter Farrelly,3335
+127,Deadpool 2,2018,R,"Action, Adventure, Comedy",7.8,David Leitch,306145
+128,The Girl in the Spider's Web,2018,R,"Action, Crime, Drama",6.1,Fede Alvarez,7356
+129,The Nun,2018,R,"Horror, Mystery, Thriller",5.5,Corin Hardy,59758
+130,First Man,2018,PG-13,"Biography, Drama, History",7.6,Damien Chazelle,53328
+131,Pokémon Detective Pikachu,2019,None,"Animation, Adventure, Family",None,Rob Letterman,None
+132,Avengers: Infinity War,2018,PG-13,"Action, Adventure, Fantasy",8.5,Anthony Russo,529483
+133,Cam,2018,TV-MA,"Horror, Mystery, Thriller",6.0,Daniel Goldhaber,6243
+134,The Lego Movie 2: The Second Part,2019,None,"Animation, Action, Adventure",None,Mike Mitchell,None
+135,The Predator,2018,R,"Action, Adventure, Horror",5.6,Shane Black,48718
+136,The Greatest Showman,2017,PG,"Biography, Drama, Musical",7.7,Michael Gracey,167766
+137,Toy Story 4,2019,None,"Animation, Adventure, Comedy",None,Josh Cooley,None
+138,The Equalizer 2,2018,R,"Action, Crime, Thriller",6.8,Antoine Fuqua,57274
+139,Vice,2018,R,"Biography, Drama, History",None,Adam McKay,None
+140,Mortal Engines,2018,PG-13,"Action, Adventure, Fantasy",None,Christian Rivers,None
+141,BlacKkKlansman,2018,R,"Biography, Comedy, Crime",7.6,Spike Lee,58624
+142,The Happytime Murders,2018,R,"Action, Comedy, Crime",5.2,Brian Henson,9102
+143,Suspiria,2018,R,"Fantasy, Horror, Mystery",7.3,Luca Guadagnino,8677
+144,Halloween,2018,R,"Horror, Thriller",7.1,David Gordon Green,49140
+145,The Nutcracker and the Four Realms,2018,PG,"Adventure, Family, Fantasy",5.6,Lasse Hallström,7643
+146,Mary Poppins Returns,2018,PG,"Animation, Adventure, Family",None,Rob Marshall,None
+147,Once Upon a Time in Hollywood,2019,None,"Comedy, Drama",None,Quentin Tarantino,None
+148,The Lion King,1994,G,"Animation, Adventure, Drama",8.5,Roger Allers,797944
+149,How the Grinch Stole Christmas,2000,PG,"Comedy, Family, Fantasy",6.1,Ron Howard,171192
+150,Dumbo,2019,None,"Family, Fantasy",None,Tim Burton,None
+151,The Clovehitch Killer,2018,None,"Drama, Horror, Mystery",6.5,Duncan Skiles,2118
+152,Searching,2018,PG-13,"Drama, Mystery, Thriller",7.8,Aneesh Chaganty,44850
+153,Alpha,2018,PG-13,"Adventure, Drama, Family",6.8,Albert Hughes,25453
+154,Harry Potter and the Sorcerer's Stone,2001,PG,"Adventure, Family, Fantasy",7.6,Chris Columbus,546062
+155,Thugs of Hindostan,2018,None,"Action, Adventure",3.5,Vijay Krishna Acharya,10480
+156,Spider-Man: Into the Spider-Verse,2018,PG,"Animation, Action, Adventure",None,Bob Persichetti,None
+157,Creed,2015,PG-13,"Drama, Sport",7.6,Ryan Coogler,206367
+158,Love Actually,2003,R,"Comedy, Drama, Romance",7.6,Richard Curtis,368612
+159,Aladdin,2019,None,"Adventure, Family, Fantasy",None,Guy Ritchie,None
+160,Joker,2019,None,"Crime, Drama, Thriller",None,Todd Phillips,None
+161,The Hate U Give,2018,PG-13,"Crime, Drama",6.9,George Tillman Jr.,6839
+162,The Mule,2018,R,"Crime, Drama, Mystery",None,Clint Eastwood,None
+163,Untitled Avengers Movie,2019,None,"Action, Adventure, Fantasy",None,Anthony Russo,None
+164,Boy Erased,2018,R,"Biography, Drama",7.2,Joel Edgerton,2989
+165,Ant-Man and the Wasp,2018,PG-13,"Action, Adventure, Comedy",7.2,Peyton Reed,155249
+166,Ocean's Eight,2018,PG-13,"Action, Comedy, Crime",6.2,Gary Ross,106463
+167,Speed Kills,2018,R,"Crime, Drama, Thriller",3.8,Jodi Scurfield,544
+168,Mamma Mia! Here We Go Again,2018,PG-13,"Comedy, Musical, Romance",6.9,Ol Parker,44319
+169,Solo: A Star Wars Story,2018,PG-13,"Action, Adventure, Fantasy",7.0,Ron Howard,175545
+170,Christopher Robin,2018,PG,"Animation, Adventure, Comedy",7.5,Marc Forster,30451
+171,Black Panther,2018,PG-13,"Action, Adventure, Sci-Fi",7.4,Ryan Coogler,418265
+172,Beautiful Boy,2018,R,"Biography, Drama",7.3,Felix van Groeningen,4494
+173,Wreck-It Ralph,2012,PG,"Animation, Adventure, Comedy",7.7,Rich Moore,322781
+174,Papillon,2017,R,"Crime, Drama, Mystery",7.1,Michael Noer,14805
+175,Harry Potter and the Deathly Hallows: Part 2,2011,PG-13,"Adventure, Drama, Fantasy",8.1,David Yates,666761
+176,Mandy,2018,Not Rated,"Action, Horror, Thriller",6.7,Panos Cosmatos,26081
+177,The Possession of Hannah Grace,2018,R,"Horror, Mystery, Thriller",6.2,Diederik Van Rooijen,488
+178,After,2019,None,"Drama, Romance, Thriller",None,Jenny Gage,None
+179,The Spy Who Dumped Me,2018,R,"Action, Adventure, Comedy",6.0,Susanna Fogel,30529
+180,Hunter Killer,2018,R,"Action, Thriller",7.0,Donovan Marsh,7354
+181,Game Night,2018,R,"Action, Comedy, Crime",7.0,John Francis Daley,130264
+182,Jurassic World: Fallen Kingdom,2018,PG-13,"Action, Adventure, Sci-Fi",6.2,J.A. Bayona,176465
+183,Bumblebee,2018,PG-13,"Action, Adventure, Sci-Fi",None,Travis Knight,None
+184,Kin,2018,PG-13,"Action, Sci-Fi",5.6,Jonathan Baker,4685
+185,Hellboy,2019,None,"Action, Adventure, Fantasy",None,Neil Marshall,None
+186,Jonathan,2018,None,"Drama, Sci-Fi",5.8,Bill Oliver,1162
+187,Roma,2018,R,Drama,8.6,Alfonso Cuarón,2276
+188,The Irishman,2019,None,"Biography, Crime, Drama",None,Martin Scorsese,None
+189,The Godfather,1972,R,"Crime, Drama",9.2,Francis Ford Coppola,1384908
+190,Home Alone,1990,PG,"Comedy, Family",7.5,Chris Columbus,384484
+191,National Lampoon's Christmas Vacation,1989,PG-13,Comedy,7.6,Jeremiah S. Chechik,125990
+192,Jumanji: Welcome to the Jungle,2017,PG-13,"Action, Adventure, Comedy",7.0,Jake Kasdan,216968
+193,Mowgli: Legend of the Jungle,2018,PG-13,"Adventure, Drama",8.0,Andy Serkis,78
+194,Pacific Rim: Uprising,2018,PG-13,"Action, Adventure, Sci-Fi",5.6,Steven S. DeKnight,76586
+195,Hereditary,2018,R,"Drama, Horror, Mystery",7.3,Ari Aster,106233
+196,Ready Player One,2018,PG-13,"Action, Adventure, Sci-Fi",7.6,Steven Spielberg,243750
+197,A Private War,2018,R,"Biography, Drama, War",7.1,Matthew Heineman,1084
+198,Justice League,2017,PG-13,"Action, Adventure, Fantasy",6.5,Zack Snyder,295461
+199,Mary Queen of Scots,2018,R,"Biography, Drama, History",6.8,Josie Rourke,183
