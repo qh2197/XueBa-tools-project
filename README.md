@@ -42,6 +42,3 @@ $ python
 
 **Run instructions**
 
-
-
-
