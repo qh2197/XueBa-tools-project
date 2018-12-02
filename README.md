@@ -56,6 +56,6 @@ $ python
 
 **Run instructions**
 
-Under ‘Getting Data’ section, users need to enter a number between 0 to 8048, which will decide how many urls to crawl and use these data to do further analysis. 
+Under ‘Getting Data’ section, users need to enter a number between 1 to 8048, which will decide how many urls to crawl and use these data to do further analysis. 
 The total number of movies is 402450 and each url lists 50 movies, so users can crawl up to 8048 urls. 
 
