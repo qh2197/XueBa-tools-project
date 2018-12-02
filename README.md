@@ -20,13 +20,14 @@ Group Members: Qinming Hu(qh2197);
 
 **Installation instructions**
 
-To use this tools, we need import serveral packages:
+To use this tools, we need import several packages:
 1. Use HTTP library,
 ```shell
 $ python
 ```
 ```python
 >>> import requests 
+>>>
 ```
 2. Fine data from library,
 ```python
@@ -36,9 +37,23 @@ $ python
 ```python
 >>> pip install pyecharts
 >>> from pyecharts import Page, Pie, Bar
+>>> import matplotlib.pyplot as plt
+>>> import seaborn as sns
+```
+4. Data Analytics,
+```python
+>>> import numpy as np
+>>> import pandas as pd
+```
+5. Regular Expression,
+```python
+>>> import re
 ```
 
 ## How to play this tool?
 
 **Run instructions**
+
+Under ‘Getting Data’ section, users need to enter a number between 0 to 8048, which will decide how many urls to crawl and use these data to do further analysis. 
+The total number of movies is 402450 and each url lists 50 movies, so users can crawl up to 8048 urls. 
 
